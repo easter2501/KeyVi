@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<Application_Table>
+  <Application>
+    <ProcessName>NOTEPAD</ProcessName>
+    <ProcessFileName>C:\WINDOWS\NOTEPAD.EXE</ProcessFileName>
+    <Enable>True</Enable>
+    <KeyH>True</KeyH>
+    <KeyJ>True</KeyJ>
+    <KeyK>False</KeyK>
+    <KeyL>False</KeyL>
+  </Application>
+  <Application>
+    <ProcessName>msimn</ProcessName>
+    <ProcessFileName>C:\Program Files\Outlook Express\msimn.exe</ProcessFileName>
+    <KeyH>False</KeyH>
+    <KeyJ>False</KeyJ>
+    <KeyK>True</KeyK>
+    <KeyL>True</KeyL>
+  </Application>
+  <General>
+    <KeyBoard>US</KeyBoard>
+    <CommandEnter>false</CommandEnter>
+  </General>
+</Application_Table>

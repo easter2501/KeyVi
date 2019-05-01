@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<Application_Table>
+  <Application>
+    <ProcessName>cmd</ProcessName>
+    <ProcessFileName>C:\WINDOWS\system32\cmd.exe</ProcessFileName>
+    <KeyH>False</KeyH>
+    <KeyJ>False</KeyJ>
+    <KeyK>False</KeyK>
+    <KeyL>False</KeyL>
+    <KeyZero>False</KeyZero>
+    <KeyShift4>False</KeyShift4>
+    <KeyCtrlF>False</KeyCtrlF>
+    <KeyCtrlB>False</KeyCtrlB>
+    <KeyY>False</KeyY>
+    <KeyYY>False</KeyYY>
+    <KeyP>False</KeyP>
+    <KeyX>False</KeyX>
+    <KeyDD>False</KeyDD>
+    <KeyO>False</KeyO>
+    <KeyShiftO>False</KeyShiftO>
+    <KeyShiftX>False</KeyShiftX>
+    <KeyCtrlH>False</KeyCtrlH>
+    <KeyU>False</KeyU>
+    <KeyGG>False</KeyGG>
+    <KeyShiftG>False</KeyShiftG>
+    <KeyW>False</KeyW>
+    <KeyB>False</KeyB>
+    <KeyShiftI>False</KeyShiftI>
+    <KeyShiftA>False</KeyShiftA>
+  </Application>
+  <General>
+    <KeyBoard>JP106</KeyBoard>
+    <CommandEnter>TRUE</CommandEnter>
+    <HenkanKeyToImeOnOff>TRUE</HenkanKeyToImeOnOff>
+    <MuhenkanKeyToEsc>TRUE</MuhenkanKeyToEsc>
+  </General>
+</Application_Table>
